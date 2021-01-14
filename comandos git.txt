@@ -1,0 +1,25 @@
+vamos a la carpeta y abrimos git bash
+
+=====git init
+
+
+
+CREAR UN BRANCH NUEVO
+
+Siempre antes de crear hay que obtener todo del master asi que
+
+== git pull
+
+Luego creamos el branch en local y nos cambiamos a este
+
+git checkout -b branch1
+
+creamos el branch en github
+
+git push origin branch1
+
+creamos el camino de nuestro branch al remoto
+
+git remote add branch1 branch1
+
+Para pushear en el branch es git push origin branch1
