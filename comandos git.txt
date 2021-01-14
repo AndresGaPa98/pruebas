@@ -23,3 +23,11 @@ creamos el camino de nuestro branch al remoto
 git remote add branch1 branch1
 
 Para pushear en el branch es git push origin branch1
+
+
+
+git fetch es para actualizar el branch con master
+
+
+git merge es para actualizar master con branch
+
