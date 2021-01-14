@@ -34,3 +34,6 @@ git merge es para actualizar master con branch
 
 debemos estar en master en primer lugar
 git checkout master y luego: git merge branch1
+
+
+xDDDDD
